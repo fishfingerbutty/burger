@@ -1,3 +1,4 @@
-name: flights-service
+name: burger-service
 dependencies:
-    - notification-service
+    - booking-service
+    - rewards-service
