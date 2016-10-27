@@ -2,3 +2,4 @@ name: burger-service
 dependencies:
     - booking-service
     - rewards-service
+    - inferred-service
